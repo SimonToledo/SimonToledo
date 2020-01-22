@@ -1,0 +1,30 @@
+body{
+font-family: 'Permanent Marker', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Rajdhani', sans-serif;
+background-color: #ffffff;
+}
+.navbar{
+  background-color: #12A97E;
+  color:#373a3c;
+}
+.hero-section{
+font-family: 'Caveat', cursive;
+  background-image: url('../img/principal.jpg');
+  background-repeat: no-repeat;
+  background-size:contain;100%;
+  text-align: center;
+  margin-top: 1rem;
+  padding:80px 250px 650px 250px;
+  color:#ffffff;
+}
+h1{
+  font-size: 5rem;
+}
+h2{
+  color:#000000;
+  text-align: center;
+}
+hr{
+  color:#ffffff;
+}
