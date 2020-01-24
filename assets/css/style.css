@@ -24,17 +24,21 @@ hr{
 }
 h1{
   font-size: 5rem;
+  text-align: center;
 }
 h2{
   color:#000000;
   text-align: center;
 }
-
+h3{
+  text-align: center;
+}
 .card-text{
   text-align: justify;
 }
 .experiencia{
   text-align: center;
+  padding-left:0;
 }
 .oscuro{
   color:#000000;
@@ -45,4 +49,25 @@ h2{
 }
 .fa-camera-retro{
   font-size: 3.5rem;
+}
+.ultimos-trabajos{
+  background-color:#12A97E;
+  height: 55rem;
+}
+footer{
+  background-color:#12A97E;
+  color: #ffffff;
+}
+.btn{
+  margin-left: 39rem;
+}
+.row{
+  display: flex;
+  align-items: center;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 6rem;
+}
+.redes-sociales{
+  text-decoration-color: #ffffff;
 }
