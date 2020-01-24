@@ -8,9 +8,13 @@ background-color: #ffffff;
   background-color: #12A97E;
   color:#373a3c;
 }
+hr{
+  color:#ffffff;
+  width: 30rem;
+}
 .hero-section{
-font-family: 'Caveat', cursive;
-  background-image: url('../img/principal.jpg');
+  font-family: 'Caveat', cursive;
+  background-image: url('../img/imagen-principal.png');
   background-repeat: no-repeat;
   background-size:contain;100%;
   text-align: center;
@@ -25,6 +29,20 @@ h2{
   color:#000000;
   text-align: center;
 }
-hr{
-  color:#ffffff;
+
+.card-text{
+  text-align: justify;
+}
+.experiencia{
+  text-align: center;
+}
+.oscuro{
+  color:#000000;
+  text-align: center;
+}
+.fa-music{
+  font-size:3.5rem;
+}
+.fa-camera-retro{
+  font-size: 3.5rem;
 }
